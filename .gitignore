@@ -1,0 +1,22 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.log
+*.vs
+*.user
+*.suo
+
+# Mac
+.DS_Store
+
+# Visual Studio
+.vscode/
+.vs/
+
+# Project files
+*.opensdf
+*.sdf
+*.xcodeproj
+*.xcworkspace
