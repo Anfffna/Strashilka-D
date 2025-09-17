@@ -1,0 +1,5 @@
+newmtl material_0
+d 1
+Kd 1 1 1
+map_Kd ./Maps/textured-tree-bark-free14.jpg
+
